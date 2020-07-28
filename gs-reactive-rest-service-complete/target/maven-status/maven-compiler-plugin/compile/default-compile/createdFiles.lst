@@ -1,0 +1,10 @@
+com/example/demo/HelloController.class
+com/example/demo/AppConfig.class
+com/example/demo/Post.class
+com/example/demo/GreetingHandler.class
+com/example/demo/GreetingWebClient.class
+com/example/demo/WebConfig.class
+com/example/demo/PostController.class
+com/example/demo/AppInitializer.class
+com/example/demo/Post$PostBuilder.class
+com/example/demo/PostRepository.class
